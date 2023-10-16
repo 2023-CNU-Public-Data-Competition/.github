@@ -80,6 +80,7 @@
     <tr>
       <th align="center">Frontend</th>
       <th align="center">Backend</th>
+      <th align="center">DevOps</th>
       <th align="center">Etc</th>
     </tr>
     <tr>
@@ -100,11 +101,20 @@
         <img src="https://img.shields.io/badge/FLASK-000000?style=flat&logo=FLASK&logoColor=white" />
       </td>
       <td align="center">
+        <img src="https://img.shields.io/badge/AMAZON EC2-FF9900?style=flat&logo=AMAZON EC2&logoColor=white"> 
+        <br />
+        <img src="https://img.shields.io/badge/AMAZON RDS-527FFF?style=flat&logo=AMAZON RDS&logoColor=white"> 
+        <br />
+        <img src="https://img.shields.io/badge/APACHE TOMCAT-F8DC75?style=flat&logo=APACHE TOMCAT&logoColor=black"> 
+      </td>
+      <td align="center">
         <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat&logo=POSTMAN&logoColor=white" />
         <br />
         <img src="https://img.shields.io/badge/GIT-F05032?style=flat&logo=GIT&logoColor=white" />
         <br />
         <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=FIGMA&logoColor=white" />
+        <br />
+        <img src="https://img.shields.io/badge/NOTION-000000?style=flat&logo=NOTION&logoColor=white" />
       </td>
     </tr>
   </tbody>
@@ -116,24 +126,24 @@
 ## Team
 <table>
   <tbody>
-    <tr width='100%'>
-      <th align="center" width='14%'>김유진</th>
-      <th align="center" width='14%'>김예빈</th>
-      <th align="center" width='14%'>신유정</th>
-      <th align="center" width='14%'>임영우</th>
+    <tr>
+      <th align="center" width="150">김유진</th>
+      <th align="center" width='150'>김예빈</th>
+      <th align="center" width='150'>신유정</th>
+      <th align="center" width='150'>임영우</th>
     </tr>
     <tr>
-      <td align='center'><img width="100" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/9a9bc664-2e25-4992-a1df-62371430bc4c">
+      <td align='center'><img width="100" alt="image" src="">
 </td>
       <td align='center'><img width="100" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/9a9bc664-2e25-4992-a1df-62371430bc4c">
 </td>
-      <td align='center'><img width="100" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/9a9bc664-2e25-4992-a1df-62371430bc4c">
+      <td align='center'><img width="100" alt="image" src="">
 </td>
-      <td align='center'><img width="100" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/9a9bc664-2e25-4992-a1df-62371430bc4c">
+      <td align='center'><img width="100" alt="image" src="">
 </td>
     </tr>
     <tr>
-      <td>Team Leader<br />Backend</td>
+      <td>Team Leader<br />Backend<br />DevOps</td>
       <td>Frontend</td>
       <td>Backend</td>
       <td>Product Manager</td>
