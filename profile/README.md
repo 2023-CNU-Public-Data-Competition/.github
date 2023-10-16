@@ -139,7 +139,7 @@ $ npm run dev
       <td>Product Manager</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Kimyebin00">@Kimyebin00</a></td>
+      <td><a href="https://github.com/Yujin-nKim">@Yujin Kim</a></td>
       <td><a href="https://github.com/Kimyebin00">@Kimyebin00</a></td>
       <td><a href="https://github.com/Kimyebin00">@Kimyebin00</a></td>
       <td><a href="https://github.com/Kimyebin00">@Kimyebin00</a></td>
