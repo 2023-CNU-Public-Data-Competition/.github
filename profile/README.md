@@ -1,5 +1,5 @@
 # 프로젝트 주제
-프로젝트 간략한 소개
+키워드 기반 게시글 태그 분류 및 알림 서비스
 
 <br/>
 
@@ -12,7 +12,7 @@
 <br/>
 
 ## System Architecture
-시스템 아키텍쳐 있으면 사진 넣기
+<img width="983" alt="스크린샷 2023-10-16 오전 10 18 18" src="https://github.com/Yujin-nKim/Yujin-nKim/assets/67141385/fa35037f-0cc1-4019-9479-555f2f146a53">
 
 
 <br/>
@@ -21,13 +21,6 @@
 대강 리스트로만 보여주기
 
 <br/>
-
-## ERD
-ERD 있으면 사진 넣기
-
-
-<br/>
-
 
 ## Tech Stack
 <table>
